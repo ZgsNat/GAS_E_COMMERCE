@@ -1,0 +1,24 @@
+.news-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.news-box {
+    width: 295px;
+    height: 280px;
+}
+
+.news-box a {
+    display: block;
+    text-decoration: none;
+}
+
+.news-box img {
+    width: 100%;
+    height: auto;
+}
+
+.news-box h3 {
+    margin: 10px 0;
+}
