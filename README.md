@@ -3,7 +3,7 @@ GAS E-Commerce   -  The e-commerce gas shop software system aims to provide a us
 
 ## Project
 The project - which was led by me -  is built under the Java programming language, is a local server, runs on the Tomcat server, developed for both the Client and Admin sides!
-The project in the build process is managed mainly on ![Gitlab](https://gitlab.com/swp391-g4-se1706-net/project_swp391_grp4.git) by a small team of 5 people and 1 instructor
+The project in the build process is managed mainly on [Gitlab](https://gitlab.com/swp391-g4-se1706-net/project_swp391_grp4.git) by a small team of 5 people and 1 instructor
 
 ### Client 
 ![](myImages/Client_Gas_E_Commerce.png)
