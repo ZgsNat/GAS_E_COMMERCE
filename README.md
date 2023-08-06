@@ -2,7 +2,7 @@
   GAS E-Commerce   -  The e-commerce gas shop software system aims to provide a user-friendly online platform for customers to purchase gas products conveniently. It serves as a digital marketplace connecting gas suppliers with end-users, facilitating seamless transactions and efficient order management. The software system will be developed to support the operations of a gas shop, offering a wide range of gas products, secure payment processing, and inventory management capabilities.
 
 ## Project
-  The project - which was led by me -  is built under the Java programming language, is a local server, runs on the Tomcat server, developed for both the Client and Admin sides!
+  The project - which was led by ZgsNat -  is built under the Java programming language, is a local server, runs on the Tomcat server, developed for both the Client and Admin sides!
 The project in the build process is managed mainly on [Gitlab](https://gitlab.com/swp391-g4-se1706-net/project_swp391_grp4.git) by a small team of 5 people and 1 instructor
 
 ### Client 
